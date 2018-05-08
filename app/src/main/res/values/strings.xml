@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DogApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">DogApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mock_text">mock_text</string>
+    <string name="welcome_button_label">Start</string>
+    <string name="title_activity_dog">About Dog</string>
+    <string name="favorites_unselected_label">No Favorites</string>
+</resources>
